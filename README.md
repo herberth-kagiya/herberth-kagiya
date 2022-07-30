@@ -3,6 +3,7 @@
 <h3 align="center">A Native Android Student from Brazil</h3>
 
 
+  
 - 🌱 I’m currently learning **Android with Kotlin and Java**
 
 - 📫 How to reach me **tayki.heberth@gmail.com**
