@@ -3,8 +3,6 @@
 <h3 align="center">A Native Android Student from Brazil</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=herberth-kagiya&label=Profile%20views&color=0e75b6&style=flat" alt="herberth-kagiya" /> </p>
-
 - 🌱 I’m currently learning **Android with Kotlin and Java**
 
 - 📫 How to reach me **tayki.heberth@gmail.com**
