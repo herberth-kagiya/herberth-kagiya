@@ -4,7 +4,7 @@
 
 
   
-- 🌱 I’m currently learning **Android with Kotlin and Java**
+- 🌱 I’m a developer of **Android apps with Kotlin**
 
 - 📫 How to reach me **tayki.heberth@gmail.com**
 
