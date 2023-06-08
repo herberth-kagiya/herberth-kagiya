@@ -12,7 +12,7 @@
   <p align="left">
   <a href="https://instagram.com/herberth_kagiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"           alt="herberth_kagiya" height="30" width="40" /></a>
 
-   <a href="https://www.linkedin.com/in/herberth-kagiya-2a5a5b254/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="herberth_kagiya" height="30" width="40" /></a>
+   <a href="https://www.linkedin.com/in/herberth-kagiya-2a5a5b254/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=svg" alt="herberth_kagiya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
