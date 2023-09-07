@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/herberth-kagiya-2a5a5b254/" target="blank"><img align="center" src="https://icons8.com.br/icon/13930/linkedin" alt="herberth_kagiya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/herberth-kagiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="herberth-kagiya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
